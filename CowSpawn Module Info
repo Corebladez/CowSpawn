@@ -1,0 +1,3 @@
+module cowSpawn {
+	requires spigot;
+}
