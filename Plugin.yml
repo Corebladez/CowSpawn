@@ -1,0 +1,9 @@
+name: CowSpawn
+version:1.0
+author: corebladez
+main: me.core.CowSpawn.Main
+
+commands:
+  CowSpawn
+    aliases: [CS]
+    description: /CS to spawn 5 Cows
